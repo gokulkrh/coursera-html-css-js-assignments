@@ -1,0 +1,141 @@
+@media (min-width: 992px) {
+
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	p {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	h1 {
+		text-align: center;
+		margin-bottom: 50px;
+		margin-top: 50px;
+	}
+	#chicken {
+		background-color: pink;
+	}
+	#beef {
+		color: white;
+		background-color: red;
+	}
+	#sushi {
+		background-color: yellow;
+	}
+	.title {
+		margin: 0;
+		text-align: center;
+	}
+	.column {
+		box-sizing: border-box;
+		border: 1px solid;
+		background-color: gray;
+		float: left;
+		width: 27%;
+		margin-left: 4.75%;
+	}
+	.coltitle {
+		text-align: right;
+		padding-left: 75%;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	body {
+		margin: 20px;
+		padding: 0;
+	}
+	p {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	h1 {
+		text-align: center;
+		margin-bottom: 50px;
+		margin-top: 50px;
+	}
+	#chicken {
+		background-color: pink;
+	}
+	#beef {
+		color: white;
+		background-color: red;
+	}
+	#sushi {
+		background-color: yellow;
+	}
+	.title {
+		margin: 0;
+		text-align: center;
+	}
+	.coltitle {
+		text-align: right;
+		padding-left: 75%;
+	}
+	#chick {
+		box-sizing: border-box;
+		border: 1px solid;
+		background-color: gray;
+		float: left;
+		width: 48.5%;
+		margin-right: 10px;
+	}
+	#bee {
+		box-sizing: border-box;
+		border: 1px solid;
+		background-color: gray;
+		float: left;
+		width: 48.5%;
+		margin-left: 10px;
+	}
+	#sush {
+		box-sizing: border-box;
+		border: 1px solid;
+		background-color: gray;
+		float: left;
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+
+
+@media (max-width: 767px) {
+	body {
+		margin: 20px;
+		padding: 0;
+	}
+	p {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	h1 {
+		text-align: center;
+		margin-bottom: 50px;
+		margin-top: 50px;
+	}
+	#chicken {
+		background-color: pink;
+	}
+	#beef {
+		color: white;
+		background-color: red;
+	}
+	#sushi {
+		background-color: yellow;
+	}
+	.title {
+		margin: 0;
+		text-align: center;
+	}
+	.column {
+		box-sizing: border-box;
+		border: 1px solid;
+		background-color: gray;
+		width: 100%;
+		margin-top: 30px;
+	}
+	.coltitle {
+		text-align: right;
+		padding-left: 75%;
+	}
+}
