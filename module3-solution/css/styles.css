@@ -1,0 +1,40 @@
+.text-container {
+	margin: 0;
+	border: 1px solid;
+	border-color: gray;
+}
+#bs-example-navbar-collapse-1 {
+	padding: 0;
+}
+.container-fluid {
+	background-color: gray;
+}
+.icon-bar {
+	background: black;
+}
+#btn {
+	border-color: black;
+	background-color: black;
+}
+#food {
+	color: black;
+}
+.listelement {
+	background-color: white;
+	border: 1px solid;
+}
+.navbar-nav {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#main-text {
+	margin: 30px;
+}
+.box {
+	background-color: gray;
+	border: 1px solid;
+	margin-top: 20px;
+}
+p, h4 {
+	color: black;
+}
